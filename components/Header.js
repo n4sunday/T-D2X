@@ -16,7 +16,7 @@ const Header = () => (
     <Grid container spacing={16} >
       <Grid  item xs={12} sm={12} style={{backgroundColor: '#1F1F1F', position: 'relative' }} align='center' >
         <Link href="/">
-          <img src="https://github.com/s5935512004/T-D2X_Next.js/blob/master/Pictures/Logo.png?raw=true" width="40" height="40"></img>
+          <img src="https://github.com/s5935512004/T-D2X/blob/master/Pictures/Logo.png?raw=true" width="40" height="40"></img>
         </Link>
         <Link href="/shop">
           <Button style={{color:'white',position:'absolute',right:0,marginTop:'5px',marginRight:'10px'}}color="primary" variant="contained">Shop</Button>
